@@ -2,7 +2,7 @@
 
 
 # Introduction 
-This is analysis of how regions and fugitives count rate varies 
+This is analysis of how regions and fugitives count rate varies. Ihave used Tableau tool to blend 2 files to get findings 
 
 #Files 
  * Cities
